@@ -1,7 +1,0 @@
-This project is a graphical user interface (GUI) application built using Python's Tkinter library, designed to manage a student database.The main window includes buttons that allow users to navigate to different functionalities:
-Add a Student: Opens a form to input new student details.
-Update Details: Enables editing existing student records.
-Student Details: Allows users to search and view details of specific students.
-Remove Student: Facilitates the deletion of student records.
-Branchwise List: Displays a list of students categorized by their branches.
-Hostel Students: Shows a list of students residing in the hostel.
