@@ -4,8 +4,6 @@ from PIL import Image, ImageTk
 from tkinter import messagebox
 import pymysql
 import cryptography
-#import pywhatkit
-#import datetime
 #functionality part
 def scratch():
     l=[firstname,mname,lname,inter_clgname,inter_marks,phno,email,place]
